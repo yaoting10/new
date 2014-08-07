@@ -34,6 +34,7 @@ public class DAOImpl {
 			}
 			for(City c:list){
 				System.out.println(c.getId()+"="+c.getName());
+				System.out.println("ok!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 			}
 			//System.out.println(i);
 		} catch (ClassNotFoundException e) {
